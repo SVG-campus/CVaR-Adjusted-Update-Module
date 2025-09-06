@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "CVaR Adjusted Update Module"
+version: "0.1.0"
+date-released: "2025-09-06"
+authors:
+  - family-names: "Villalobos-Gonzalez"
+    given-names: "Santiago de Jesus"
+    orcid: "https://orcid.org/0009-0004-9601-5617"
+type: software
+abstract: >
+  Per-asset CVaR-adjusted reweighting for portfolio allocation, with tests and Zenodo/ORCID metadata.
+keywords: [CVaR, tail risk, portfolio optimization, risk management, quantitative finance]
+license: MIT
+repository-code: "https://github.com/OWNER/REPO"
+identifiers: []
